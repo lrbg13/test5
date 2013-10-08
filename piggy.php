@@ -2,13 +2,14 @@
 echo'<!DOCTYPE html>
 <html>
     <head>
-        <title>Cookie Monster</title>
+        <title>The Muppets</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <h1>Cookie Monster</h1>
-        <img src="images/piggy.jpg"/>
-        <p><a href="index.php">Back to main page</a></p>
+        <h1>The Muppets</h1>
+        <ul>
+            <li><a href="cookiemonster.php">Cookie Monster</a></li>
+        </ul>
     </body>
 </html>';
 ?>

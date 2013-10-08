@@ -9,6 +9,7 @@ echo'<!DOCTYPE html>
         <h1>The Muppets</h1>
         <ul>
             <li><a href="cookiemonster.php">Cookie Monster</a></li>
+            <li><a href="piggy.php">Cookie Monster</a></li>
         </ul>
     </body>
 </html>';
