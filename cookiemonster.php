@@ -9,7 +9,7 @@ echo'<!DOCTYPE html>
         <h1>Cookie Monster</h1>
         <img src="images/piggy.jpg"/>
         <p><a href="index.php">Back to main page</a></p>
-        <p>LOIDA explicame que sera lo que tiene el NEGRO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+        <p>explicame que sera lo que tiene el NEGRO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
             <img src="devil.jpg">
     </body>
 </html>';
