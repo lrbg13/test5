@@ -9,6 +9,7 @@ echo'<!DOCTYPE html>
         <h1>Cookie Monster</h1>
         <img src="images/piggy.jpg"/>
         <p><a href="index.php">Back to main page</a></p>
+            <img src="devil.jpg">
     </body>
 </html>';
 ?>
